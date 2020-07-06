@@ -6,4 +6,6 @@ Deneme dosyasi icerisinde vim editoru ile degisiklik yapildi.3
 Deneme dosyasi icerisinde vim editoru ile degisiklik yapildi.4
 Deneme dosyasi icerisinde vim editoru ile degisiklik yapildi.5
 Deneme dosyasi icerisinde vim editoru ile degisiklik yapildi.6
+
+degisiklik
 Deneme dosyasi icerisinde vim editoru ile degisiklik yapildi.7
